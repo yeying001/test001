@@ -4,3 +4,6 @@
 function setName(){
     console.log(123);
 }
+function fn(){
+    console.log(456);
+}
